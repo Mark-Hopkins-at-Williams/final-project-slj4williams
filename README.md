@@ -1,10 +1,9 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Satya Benson
+- Felix King
 
-Also, add any files to this repository that you would need as part of your final project submission.
+No special instructions, just the jupyter notebook. We are so sorry for the late submission, I (Satya) told Felix I would submit it over a week ago and I totally forgot!
 
-Finally, put any special instructions in this README about how to use your code/notebook.
+You can see proof that we finished it on time at our original git repo here: https://git.sr.ht/~satchlj/lottery/log
